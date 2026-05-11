@@ -1,69 +1,94 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:7c3aed&height=220&section=header&text=Hey%20there%2C%20I'm%20Akanksha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=55&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:7c3aed&height=230&section=header&text=Akanksha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Builder&descSize=17&descAlignY=52&descColor=c4b5fd" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+scalable+web+applications+%F0%9F%9A%80;Automating+QA+workflows+with+precision+%F0%9F%94%8D;Exploring+the+frontier+of+Agentic+AI+%F0%9F%A4%96;Turning+ideas+into+production-ready+code+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+intelligent+systems+with+Agentic+AI+%F0%9F%A4%96;Shipping+production-grade+web+apps+%F0%9F%9A%80;Automating+everything+that+should+be+automated+%E2%9A%99%EF%B8%8F;3%2B+years+of+turning+ideas+into+impact+%E2%9C%A8" alt="Typing SVG" /></a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-Akanksha-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamakanksha)
+[![GitHub](https://img.shields.io/badge/-imaakanksha-181717?style=flat&logo=github&logoColor=white)](https://github.com/imaakanksha)
+[![Profile Views](https://komarev.com/ghpvc/?username=imaakanksha&style=flat&color=7c3aed&label=Profile+Views)](https://github.com/imaakanksha)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧬 About Me
 
 ```yaml
 name: Akanksha
-location: India
+location: India 🇮🇳
 role: Software Engineer
 experience: 3+ Years
-current_focus: Agentic AI & Productivity Tools
-fun_fact: I build tools that make developers' lives easier ✨
+domains:
+  - Full-Stack Web Development
+  - QA Automation Engineering
+  - Agentic AI & Multi-Agent Systems
+currently_building: Intelligent agents & productivity tools
+philosophy: "Automate the mundane, engineer the extraordinary"
 ```
 
-I'm a **results-driven Software Engineer** with **3+ years** of experience designing, developing, and maintaining critical web applications. My journey spans across **full-stack development**, **QA automation engineering**, and the exciting world of **Agentic AI**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔭 Currently working on **[ProductivityAnalyzer](https://github.com/imaakanksha/ProductivityAnalyzer)** — a full-stack analytics tool
-- 🤖 Deep-diving into **Agentic AI**, building intelligent agents and prompt engineering systems
-- 🧪 Passionate about **QA Automation** — building engines that validate config consistency at scale
-- 🎯 Always learning, always shipping
+### 🎯 What I'm Up To
+
+- 🤖 Deep-diving into **Agentic AI** — building multi-agent orchestration systems
+- 🔬 Working on **[ProductivityAnalyzer](https://github.com/imaakanksha/ProductivityAnalyzer)** — a full-stack analytics platform
+- 🧪 Engineering **enterprise QA automation** — config validation at scale
+- 📊 Exploring **o9 Solutions** architecture & report optimization
+- 🌱 Learning: **MCP protocols**, **LLM tool-use**, **prompt engineering**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Quick Facts
+
+- 💼 **3+ years** shipping production software
+- 🛠️ Fluent in **C#, Go, Python, JavaScript, TypeScript**
+- 🏗️ Built enterprise plugins for **o9 Solutions**
+- 🎓 Firm believer in **learning by building**
+- ☕ Powered by curiosity and copious amounts of chai
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,cs,html,css" alt="Languages" />
+</p>
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🧰 Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs" alt="Frameworks" />
+</p>
 
-### AI & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### 🤖 AI & Data
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+### ⚙️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+</p>
 
 </div>
 
@@ -77,102 +102,114 @@ I'm a **results-driven Software Engineer** with **3+ years** of experience desig
 <tr>
 <td width="50%">
 
-### 🔬 [ProductivityAnalyzer](https://github.com/imaakanksha/ProductivityAnalyzer)
-**Full-Stack Productivity Analytics Tool**
-
-A comprehensive analytics platform with a Python backend and JavaScript frontend for tracking and visualizing productivity metrics.
-
-`JavaScript` `Python` `FastAPI` `Analytics`
-
-</td>
-<td width="50%">
-
-### 📄 [ResumeGenerator](https://github.com/imaakanksha/ResumeGenerator)
-**ResumeForge — Smart Resume Builder**
-
-Feature-rich resume builder with drag & drop, dark mode, auto-save, PDF export, and ATS optimization capabilities.
-
-`JavaScript` `HTML` `CSS` `LocalStorage`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 [QA-Automation](https://github.com/imaakanksha/QA-Automation)
-**Enterprise QA Automation Engine**
-
-Automated configuration validation engine using structured JSON comparison — designed for consistency checks across o9 tenants.
-
-`Python` `JSON` `Automation` `QA`
+<h3 align="center">🤖 <a href="https://github.com/imaakanksha/AgenticAI-Workshop">AgenticAI Workshop</a></h3>
+<p align="center">
+<a href="https://github.com/imaakanksha/AgenticAI-Workshop"><img src="https://img.shields.io/badge/Agentic_AI-7c3aed?style=flat-square&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/AgenticAI-Workshop"><img src="https://img.shields.io/badge/Multi--Agent-6366f1?style=flat-square&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/AgenticAI-Workshop"><img src="https://img.shields.io/badge/MCP-a78bfa?style=flat-square&logoColor=white" alt="Badge"/></a>
+</p>
+<p align="center"><em>Hands-on workshop exploring agentic AI patterns, tool-use, multi-agent orchestration, and LLM-driven workflows.</em></p>
 
 </td>
 <td width="50%">
 
-### 🧠 [AgenticAI-Workshop](https://github.com/imaakanksha/AgenticAI-Workshop)
-**Agentic AI Learning & Experiments**
-
-Hands-on workshop exploring the frontier of agentic AI patterns, tool-use, and multi-agent orchestration.
-
-`AI` `Agents` `MCP` `LLM`
+<h3 align="center">🔬 <a href="https://github.com/imaakanksha/ProductivityAnalyzer">ProductivityAnalyzer</a></h3>
+<p align="center">
+<a href="https://github.com/imaakanksha/ProductivityAnalyzer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/ProductivityAnalyzer"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/ProductivityAnalyzer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Badge"/></a>
+</p>
+<p align="center"><em>Full-stack productivity analytics tool with Python backend and interactive JavaScript frontend for tracking & visualizing metrics.</em></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏙️ [Urban-Intelligence-Dashboard](https://github.com/imaakanksha/Urban-Intelligence-Dashboard-Final)
-**Real-Time Crisis Response Dashboard**
-
-Urban incident intelligence dashboard built with Google AI Studio for real-time resource management and crisis dispatch.
-
-`TypeScript` `Google AI` `Dashboard` `Real-Time`
+<h3 align="center">🏙️ <a href="https://github.com/imaakanksha/Urban-Intelligence-Dashboard-Final">Urban Intelligence Dashboard</a></h3>
+<p align="center">
+<a href="https://github.com/imaakanksha/Urban-Intelligence-Dashboard-Final"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/Urban-Intelligence-Dashboard-Final"><img src="https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/Urban-Intelligence-Dashboard-Final"><img src="https://img.shields.io/badge/Real--Time-ff6b6b?style=flat-square&logoColor=white" alt="Badge"/></a>
+</p>
+<p align="center"><em>Real-time crisis response dashboard powered by Google AI Studio for urban incident intelligence and resource dispatch.</em></p>
 
 </td>
 <td width="50%">
 
-### 🎬 [.MOV-To-.MP4-Converter](https://github.com/imaakanksha/.MOV-To-.MP4-Converter)
-**Browser-Based Video Converter**
-
-High-fidelity video converter with preview player, conversion stats dashboard, toast notifications, and conversion history.
-
-`JavaScript` `FFmpeg` `WebAssembly` `UI/UX`
+<h3 align="center">📄 <a href="https://github.com/imaakanksha/ResumeGenerator">ResumeForge</a></h3>
+<p align="center">
+<a href="https://github.com/imaakanksha/ResumeGenerator"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/ResumeGenerator"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/ResumeGenerator"><img src="https://img.shields.io/badge/PDF_Export-c4b5fd?style=flat-square&logoColor=white" alt="Badge"/></a>
+</p>
+<p align="center"><em>Smart resume builder with drag & drop, dark mode, auto-save, PDF export, and ATS optimization capabilities.</em></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⚙️ [PluginExecutions](https://github.com/imaakanksha/PluginExecutions)
-**o9 Solutions Plugin System**
-
-Server-side JavaScript plugin for o9 report automation — batch updates, conditional logic, and audit tracking.
-
-`JavaScript` `o9 Solutions` `Plugins` `Enterprise`
+<h3 align="center">⚙️ <a href="https://github.com/imaakanksha/PluginExecutions">o9 Plugin System</a></h3>
+<p align="center">
+<a href="https://github.com/imaakanksha/PluginExecutions"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/PluginExecutions"><img src="https://img.shields.io/badge/Enterprise-512BD4?style=flat-square&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/PluginExecutions"><img src="https://img.shields.io/badge/o9_Solutions-0d1117?style=flat-square&logoColor=white" alt="Badge"/></a>
+</p>
+<p align="center"><em>Server-side JavaScript plugins for o9 report automation — batch updates, conditional logic, and audit tracking.</em></p>
 
 </td>
 <td width="50%">
 
-### 📊 [ATS-Master-Resume-Optimizer](https://github.com/imaakanksha/ATS-Master-Resume-Optimizer)
-**ATS-Optimized Resume Builder**
+<h3 align="center">🧪 <a href="https://github.com/imaakanksha/QA-Automation">QA Automation Engine</a></h3>
+<p align="center">
+<a href="https://github.com/imaakanksha/QA-Automation"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/QA-Automation"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/QA-Automation"><img src="https://img.shields.io/badge/Automation-00ADD8?style=flat-square&logoColor=white" alt="Badge"/></a>
+</p>
+<p align="center"><em>Automated configuration validation engine using structured JSON comparison — designed for consistency checks across enterprise tenants.</em></p>
 
-LaTeX-based ATS resume optimizer that dynamically tailors content based on job descriptions and keyword extraction.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-`TypeScript` `LaTeX` `ATS` `Automation`
+<h3 align="center">🎬 <a href="https://github.com/imaakanksha/.MOV-To-.MP4-Converter">Video Converter</a></h3>
+<p align="center">
+<a href="https://github.com/imaakanksha/.MOV-To-.MP4-Converter"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/.MOV-To-.MP4-Converter"><img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/.MOV-To-.MP4-Converter"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Badge"/></a>
+</p>
+<p align="center"><em>Browser-based video converter with preview player, conversion stats dashboard, toast notifications, and history.</em></p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">📊 <a href="https://github.com/imaakanksha/ATS-Master-Resume-Optimizer">ATS Resume Optimizer</a></h3>
+<p align="center">
+<a href="https://github.com/imaakanksha/ATS-Master-Resume-Optimizer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/ATS-Master-Resume-Optimizer"><img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="Badge"/></a>
+<a href="https://github.com/imaakanksha/ATS-Master-Resume-Optimizer"><img src="https://img.shields.io/badge/ATS-7c3aed?style=flat-square&logoColor=white" alt="Badge"/></a>
+</p>
+<p align="center"><em>LaTeX-based ATS resume optimizer that dynamically tailors content based on job descriptions and keyword extraction.</em></p>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<a href="https://github.com/imaakanksha?tab=repositories"><img src="https://img.shields.io/badge/View_All_85+_Repos_→-7c3aed?style=for-the-badge&logoColor=white" alt="All Repos"/></a>
+
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imaakanksha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imaakanksha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&rank_icon=github" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaakanksha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
 
 <br/>
@@ -183,7 +220,7 @@ LaTeX-based ATS resume optimizer that dynamically tailors content based on job d
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
@@ -203,13 +240,15 @@ LaTeX-based ATS resume optimizer that dynamically tailors content based on job d
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamakanksha)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imaakanksha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.linkedin.com/in/iamakanksha)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imaakanksha/imaakanksha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imaakanksha/imaakanksha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/imaakanksha/imaakanksha/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -217,17 +256,24 @@ LaTeX-based ATS resume optimizer that dynamically tailors content based on job d
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+### 🤝 Let's Connect & Collaborate
+
+<p>
+<a href="https://www.linkedin.com/in/iamakanksha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/imaakanksha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=imaakanksha&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-<br/><br/>
+<br/>
 
-⭐ **If you find my projects useful, consider giving them a star!**
+⭐ **If you find my work interesting, let's connect — or drop a star on a project you like!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:0d1117&height=120&section=footer" width="100%"/>
