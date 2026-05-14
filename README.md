@@ -153,7 +153,103 @@ class Akanksha:
 
 <div align="center">
 
-<!-- PROJECT 1: HIGHLIGHT -->
+<!-- PROJECT HIGHLIGHT CARDS -->
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 [AgenticAI Workshop](https://github.com/imaakanksha/AgenticAI-Workshop)
+> Multi-agent AI orchestration framework with MCP protocol integration
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-7c3aed?style=flat-square"/>
+</p>
+
+`Multi-Agent` `LLM Orchestration` `Tool-Use`
+
+</td>
+<td width="50%">
+
+### 📊 [ProductivityAnalyzer](https://github.com/imaakanksha/ProductivityAnalyzer)
+> Enterprise-grade analytics platform for 10,000+ employee organizations
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
+
+`OKR Tracking` `Capacity Planning` `Risk Heatmaps`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏙️ [Urban Intelligence Dashboard](https://github.com/imaakanksha/Urban-Intelligence-Dashboard-Final)
+> Real-time urban data visualization with interactive geospatial analytics
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data_Viz-6366f1?style=flat-square"/>
+<img src="https://img.shields.io/badge/GeoSpatial-2ea44f?style=flat-square"/>
+</p>
+
+`Smart City` `Real-Time Analytics` `Interactive Maps`
+
+</td>
+<td width="50%">
+
+### ⚙️ [o9 Optimizer Agent](https://github.com/imaakanksha/o9OptimizerAgent)
+> AI-powered report optimization and diagnostic advisory suite for o9 Solutions
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI_Agent-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/S%26OP-ff6b6b?style=flat-square"/>
+</p>
+
+`EKG Health Check` `Maturity Advisor` `Enterprise`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [Multi-Agent Research System](https://github.com/imaakanksha/Multi-Agent-For-MGT)
+> Production-grade multi-agent research framework with guardrails & evaluation
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Async-7c3aed?style=flat-square"/>
+</p>
+
+`Guardrails` `LLM Tool Selection` `Eval Harness`
+
+</td>
+<td width="50%">
+
+### 📝 [ATS Resume Optimizer](https://github.com/imaakanksha/ATS-Master-Resume-Optimizer)
+> AI-driven resume optimization engine for maximum ATS compatibility scores
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-ff6b6b?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-412991?style=flat-square"/>
+</p>
+
+`Resume Parsing` `Score Optimization` `Keyword Analysis`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- REPO STAT CARDS -->
 <a href="https://github.com/imaakanksha/AgenticAI-Workshop">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=AgenticAI-Workshop&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="AgenticAI Workshop"/>
 </a>
@@ -161,23 +257,16 @@ class Akanksha:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=ProductivityAnalyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="ProductivityAnalyzer"/>
 </a>
 
-<a href="https://github.com/imaakanksha/Urban-Intelligence-Dashboard-Final">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=Urban-Intelligence-Dashboard-Final&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="Urban Intelligence Dashboard"/>
+<a href="https://github.com/imaakanksha/Multi-Agent-For-MGT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=Multi-Agent-For-MGT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="Multi-Agent Research"/>
 </a>
-<a href="https://github.com/imaakanksha/ResumeGenerator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=ResumeGenerator&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="ResumeForge"/>
-</a>
-
-<a href="https://github.com/imaakanksha/ATS-Master-Resume-Optimizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=ATS-Master-Resume-Optimizer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="ATS Resume Optimizer"/>
-</a>
-<a href="https://github.com/imaakanksha/.MOV-To-.MP4-Converter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=.MOV-To-.MP4-Converter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="Video Converter"/>
+<a href="https://github.com/imaakanksha/o9OptimizerAgent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=o9OptimizerAgent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="o9 Optimizer"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/imaakanksha?tab=repositories"><img src="https://img.shields.io/badge/🔭_Explore_All_85+_Repositories_→-7c3aed?style=for-the-badge&logoColor=white" alt="All Repos"/></a>
+<a href="https://github.com/imaakanksha?tab=repositories"><img src="https://img.shields.io/badge/🔭_Explore_All_86+_Repositories_→-7c3aed?style=for-the-badge&logoColor=white" alt="All Repos"/></a>
 
 </div>
 
@@ -219,6 +308,15 @@ class Akanksha:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imaakanksha&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="100%"/>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imaakanksha/imaakanksha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imaakanksha/imaakanksha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/imaakanksha/imaakanksha/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -274,11 +372,53 @@ class Akanksha:
 
 <table>
 <tr>
-<td align="center"><b>📦 85+</b><br/>Repositories</td>
+<td align="center"><b>📦 86+</b><br/>Repositories</td>
 <td align="center"><b>🔧 7+</b><br/>Languages</td>
 <td align="center"><b>🏢 3+</b><br/>Years Experience</td>
 <td align="center"><b>🤖 5+</b><br/>AI Projects</td>
 <td align="center"><b>🧪 10+</b><br/>Tools Built</td>
+</tr>
+</table>
+
+</div>
+
+<!-- CERTIFICATIONS & LEARNING -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+
+## 🎓 &nbsp;Learning & Growth
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🧠<br/>
+**Agentic AI**<br/>
+<sub>Multi-Agent Systems<br/>MCP Protocols<br/>LLM Tool-Use</sub>
+
+</td>
+<td align="center" width="25%">
+
+⚡<br/>
+**Full-Stack**<br/>
+<sub>React & Next.js<br/>Python & Go<br/>Enterprise SaaS</sub>
+
+</td>
+<td align="center" width="25%">
+
+🔒<br/>
+**DevSecOps**<br/>
+<sub>CI/CD Pipelines<br/>Config Validation<br/>Docker</sub>
+
+</td>
+<td align="center" width="25%">
+
+📊<br/>
+**Data & Analytics**<br/>
+<sub>Productivity Metrics<br/>S&OP / IBP<br/>Visualization</sub>
+
+</td>
 </tr>
 </table>
 
