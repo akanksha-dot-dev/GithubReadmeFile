@@ -34,3 +34,33 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+---
+
+## 🐍 Streamlit Version (Python Sister App)
+
+A Python Streamlit version of the dashboard is available for data science integrations and easy one-click cloud hosting.
+
+### Run Streamlit Locally
+
+1. Install Python dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Start the Streamlit application:
+   ```bash
+   streamlit run streamlit_app.py
+   ```
+
+### Publish to Streamlit Community Cloud
+
+1. Commit and push `streamlit_app.py`, `requirements.txt`, and this repository to your **GitHub** account.
+2. Visit [Streamlit Community Cloud](https://share.streamlit.io/) and log in with your GitHub account.
+3. Click **"New app"** on the dashboard.
+4. Select your repository, branch (e.g. `main` or `master`), and set the main file path to:
+   ```
+   streamlit_app.py
+   ```
+5. Click **"Deploy"**! Streamlit will automatically build, install the requirements, and serve your app.
+
